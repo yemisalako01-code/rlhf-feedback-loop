@@ -16,3 +16,8 @@ RLHF pipeline for model alignment
 
 ## Technologies Used
 Python, ML, Data
+
+## Enhanced Features
+### Production-Grade Additions:
+- src/data_collection/human_feedback.py
+- src/reward_model/training.py
